@@ -9,6 +9,7 @@ public class Demo1Test {
 	public void fruitsTest()
 	{
 		System.out.println("apple");
+		System.out.println("orange");
 	}
 	
 	
